@@ -38,7 +38,7 @@ Clean code · Version control (Git) · Problem solving · OOP basics
 ## 📬 Contact
 
 📧 **mohammednom3n@gmail.com**  
-🔗 LinkedIn: *[(add your link here)](https://www.linkedin.com/in/mohammednom3n/)*
+🔗 LinkedIn: *[https://www.linkedin.com/in/mohammednom3n/]*
 
 ---
 
