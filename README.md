@@ -25,7 +25,7 @@ Interested in applied ML, model optimization, and data-driven applications.
 Model development · Supervised learning · Feature engineering · Evaluation (& metrics) · Hyperparameter tuning *(learning)*
 
 **Currently Building Skills In**  
-Model deployment · Inference APIs (Flask/FastAPI) · Docker & reproducible ML
+Model deployment · Inference APIs (FastAPI) · Docker & reproducible ML
 
 **ML Tools I Use**  
 Scikit-learn · TensorFlow · NumPy · Pandas
