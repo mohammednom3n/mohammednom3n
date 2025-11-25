@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Noman</h1>
 
-I have **B.Tech in Software Engineering** & **Minor in Data Analytics**  
+I hold a **B.Tech in Software Engineering** & a **Minor in Data Analytics**  
 I build practical **Machine Learning systems** and focus on turning models into usable products — from development to deployment.  
 Interested in applied ML, model optimization, and data-driven applications.
 
