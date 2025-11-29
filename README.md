@@ -8,11 +8,15 @@ Interested in applied ML, model optimization, and data-driven applications.
 
 ## 🚀 Featured Projects
 
-<b>🏠 House Price Prediction – End-to-End ML System</b>   
-🔗 https://github.com/mohammednom3n/house-price-prediction
-
-<b>🌱 EcoServe-AI – Environmental Machine Learning</b>  
+<b>🌱 EcoServe-AI – Smart Food Waste Forecasting System </b>  
+ML-powered forecasting system with FastAPI & Streamlit deployment for sustainability insights.
 🔗 https://github.com/mohammednom3n/EcoServe-AI
+🔗 Live App: https://ecoserve.streamlit.app/
+
+
+<b>🏠 House Price Prediction – End-to-End ML System</b>   
+Production-ready ML pipeline covering preprocessing, training, evaluation, and deployed inference API.
+🔗 https://github.com/mohammednom3n/house-price-prediction
 
 <b>🧠 ML Fundamentals – Classical Machine Learning Models</b>    
 🔗 https://github.com/mohammednom3n/mlproject
@@ -22,16 +26,16 @@ Interested in applied ML, model optimization, and data-driven applications.
 ## 🧠 Core Competencies
 
 **Machine Learning**  
-Model development · Supervised learning · Feature engineering · Evaluation (& metrics) · Hyperparameter tuning *(learning)*
+Machine learning · Deep Learning. Supervised models · Feature engineering · Evaluation & tuning
 
-**Currently Building Skills In**  
-Model deployment · Inference APIs (FastAPI) · Docker & reproducible ML
+**Currently Building**  
+Model deployment · FastAPI inference APIs · Docker & MLOps basics
 
 **ML Tools I Use**  
 Scikit-learn · TensorFlow · NumPy · Pandas
 
 **Software & Engineering Practices**  
-Clean code · Version control (Git) · Problem solving · OOP basics
+Clean code · Git · Problem solving · OOP fundamentals
 
 ---
 
