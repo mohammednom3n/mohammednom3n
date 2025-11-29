@@ -10,12 +10,15 @@ Interested in applied ML, model optimization, and data-driven applications.
 
 <b>🌱 EcoServe-AI – Smart Food Waste Forecasting System </b>  
 ML-powered forecasting system with FastAPI & Streamlit deployment for sustainability insights.
+
 🔗 https://github.com/mohammednom3n/EcoServe-AI
+
 🔗 Live App: https://ecoserve.streamlit.app/
 
-
 <b>🏠 House Price Prediction – End-to-End ML System</b>   
+
 Production-ready ML pipeline covering preprocessing, training, evaluation, and deployed inference API.
+
 🔗 https://github.com/mohammednom3n/house-price-prediction
 
 <b>🧠 ML Fundamentals – Classical Machine Learning Models</b>    
