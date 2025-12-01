@@ -26,7 +26,7 @@ Production-ready ML pipeline from preprocessing to training, evaluation, and a *
 Machine learning · Deep Learning. Supervised models · Feature engineering · Evaluation & tuning
 
 **Currently Building**  
-Model deployment · FastAPI inference APIs · Docker & MLOps basics
+Model deployment · FastAPI inference APIs · Docker & MLOps
 
 **ML Tools I Use**  
 Scikit-learn · TensorFlow · NumPy · Pandas
