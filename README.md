@@ -14,7 +14,8 @@ Interested in applied ML, model optimization, and data-driven applications.
 End-to-end ML system with a **deployed FastAPI inference API** and **Streamlit dashboard** for sustainability insights.
 
 **🏠 House Price Prediction – End-to-End ML Pipeline**  
-🔗 https://github.com/mohammednom3n/house-price-prediction  
+🔗 https://github.com/mohammednom3n/house-price-prediction   
+🔗 Live App: https://house-price-predicts.streamlit.app/    
 Production-ready ML pipeline from preprocessing to training, evaluation, and a **deployed inference API**.
 
 ---
