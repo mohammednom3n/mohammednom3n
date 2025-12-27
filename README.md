@@ -7,20 +7,6 @@ My work spans from raw data ingestion and transformation to model deployment and
 
 ---
 
-## 🚀 What I’m Currently Building
-
-- **Production Machine Learning Systems**
-  - End-to-end ML pipelines
-  - FastAPI inference services
-  - Dockerized deployment workflows
-    
-- **Data & Analytics Systems**
-  - Data warehousing and analytics pipelines
-  - Structured data modeling for analytics use cases
-  - SQL-based data transformations
-
----
-
 ## 🧠 Core Competencies
 
 ### Machine Learning
