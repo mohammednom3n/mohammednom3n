@@ -1,47 +1,102 @@
-<h1>Hi 👋 I'm Noman</h1>
+# Hi 👋 I'm Noman
 
-I hold a **B.Tech in Software Engineering** & **Minor in Data Analytics**  
-I build practical **Machine Learning systems** and focus on turning models into usable products — from development to deployment.  
-Interested in applied ML, model optimization, and data-driven applications.
+**Machine Learning & Data Engineering | End-to-End Systems Builder**
+
+I build end-to-end data and machine learning systems with a strong focus on **data engineering foundations**, **analytics-ready data modeling**, and **production ML pipelines**.  
+My work spans from raw data ingestion and transformation to model deployment and real-world applications.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I’m Currently Building
 
-**🌱 EcoServe-AI – Smart Food Waste Forecasting System**  
-🔗 https://github.com/mohammednom3n/EcoServe-AI  
-🔗 Live App: https://ecoserve.streamlit.app/   
-End-to-end ML system with a **deployed FastAPI inference API** and **Streamlit dashboard** for sustainability insights.
-
-**🏠 House Price Prediction – End-to-End ML Pipeline**  
-🔗 https://github.com/mohammednom3n/house-price-prediction   
-🔗 Live App: https://house-price-predicts.streamlit.app/    
-Production-ready ML pipeline from preprocessing to training, evaluation, and a **deployed inference API**.
+- **Production Machine Learning Systems**
+  - End-to-end ML pipelines
+  - FastAPI inference services
+  - Dockerized deployment workflows
+    
+- **Data & Analytics Systems**
+  - Data warehousing and analytics pipelines
+  - Structured data modeling for analytics use cases
+  - SQL-based data transformations
 
 ---
 
 ## 🧠 Core Competencies
 
-**Machine Learning**  
-Machine learning · Deep Learning. Supervised models · Feature engineering · Evaluation & tuning
+### Machine Learning
+- Supervised Learning
+- Feature Engineering
+- Model Evaluation & Optimization
+- End-to-End ML Pipelines
 
-**Currently Building**  
-Model deployment · FastAPI inference APIs · Docker & MLOps
-
-**ML Tools I Use**  
-Scikit-learn · TensorFlow · NumPy · Pandas
-
-**Software & Engineering Practices**  
-Clean code · Git · Problem solving · OOP fundamentals
+### Data Engineering
+- Designing and building analytics-ready data systems and ETL pipelines
+- Modeling and transforming data for reporting and analytical workloads
+- Implementing layered data warehouse architectures
+  
+### Software Engineering
+- Clean Code
+- Git & Version Control
+- API Design
+- Reproducible Systems
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack
 
-📧 **mohammednom3n@gmail.com**  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Data & ML
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+
+### Engineering & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ---
 
-> Looking for opportunities as a **Machine Learning Engineer, Data Engineer, or Software Engineer**, where I can contribute to building real ML applications.
+## 📌 Featured Projects
 
--->
+### 🥗 EcoServe-AI — Smart Food Waste Forecasting System
+🌐 https://ecoserve.streamlit.app/
+
+- End-to-end ML system
+- Forecasting food waste
+- FastAPI inference API
+- Streamlit dashboard for insights
+
+---
+
+### 🏠 House Price Prediction — End-to-End ML Pipeline  
+🌐 https://house-price-predicts.streamlit.app/
+
+- Production-ready ML pipeline
+- Data preprocessing → training → evaluation
+- Deployed inference service
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **mohammednom3n@gmail.com**
+
+---
+
+> 💡 I’m interested in **Data Engineering** and **Machine Learning Engineering** roles where I can work on real-world, data-driven systems.
