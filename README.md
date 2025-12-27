@@ -89,7 +89,15 @@ My work spans from raw data ingestion and transformation to model deployment and
 - Deployed inference service
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammednom3n&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammednom3n&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednom3n&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=mohammednom3n&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 ## 📫 Connect With Me
 
 - 📧 Email: **mohammednom3n@gmail.com**
